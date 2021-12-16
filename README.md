@@ -1,4 +1,10 @@
-<h1> MLP-Mixer: An all-MLP Architecture for Vision [arXiv](https://arxiv.org/abs/2105.01601) </h1> 
+<h1>
+MLP-Mixer: An all-MLP Architecture for Vision   
+  
+[arXiv](https://arxiv.org/abs/2105.01601)  
+</h1>  
+
+
 
 ![MLP-Mixer](https://camo.githubusercontent.com/6f01197a711dee4f81441f2e6fef577f72ab8b36f1ddeea03d30ecada3e10d72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333339382f312a635548643647396a6a776c3946377858765f534245772e6a706567)
 <h3>
